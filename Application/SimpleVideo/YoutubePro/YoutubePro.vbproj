@@ -6,9 +6,9 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{2B332C3C-AD20-40DB-A2FC-627BC894AF53}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>YoutubePro.My.MyApplication</StartupObject>
-    <RootNamespace>YoutubePro</RootNamespace>
-    <AssemblyName>YoutubePro</AssemblyName>
+    <StartupObject>VideoBrowser.My.MyApplication</StartupObject>
+    <RootNamespace>VideoBrowser</RootNamespace>
+    <AssemblyName>Video Browser</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>YoutubePro.xml</DocumentationFile>
+    <DocumentationFile>Video Browser.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>YoutubePro.xml</DocumentationFile>
+    <DocumentationFile>Video Browser.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
